@@ -1,3 +1,3 @@
 # CST1510 CW2
-Name: Husni Alfar
-MISIS: M01002718
+# Name: Husni Alfar
+# MISIS: M01002718
